@@ -1,0 +1,117 @@
+{
+  "rooms": [
+    {
+      "id": "1",
+      "reservations": [
+        {
+          "id": 1,
+          "reservedBy": "John Doe",
+          "from": "2024-08-23",
+          "to": "2024-08-24",
+          "notes": "Team meeting"
+        },
+        {
+          "reservedBy": "sdrfgds",
+          "from": "2024-08-21",
+          "to": "2024-08-22",
+          "notes": "fchn",
+          "roomId": 1,
+          "id": 2
+        },
+        {
+          "reservedBy": "dfbgfd",
+          "from": "2024-08-21",
+          "to": "2024-08-22",
+          "roomId": 1,
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "reservations": [
+        {
+          "id": 2,
+          "reservedBy": "Jane Smith",
+          "from": "2024-08-24",
+          "to": "2024-08-25",
+          "notes": "Conference call"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "reservations": [
+        {
+          "id": 3,
+          "reservedBy": "Mike Johnson",
+          "from": "2024-08-25",
+          "to": "2024-08-26",
+          "notes": "Birthday party"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "reservations": [
+        {
+          "id": 4,
+          "reservedBy": "Emily Davis",
+          "from": "2024-08-26",
+          "to": "2024-08-27",
+          "notes": "Vacation"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "reservations": []
+    },
+    {
+      "id": "6",
+      "reservations": []
+    },
+    {
+      "id": "7",
+      "reservations": []
+    },
+    {
+      "id": "8",
+      "reservations": []
+    },
+    {
+      "id": "9",
+      "reservations": []
+    },
+    {
+      "id": "10",
+      "reservations": []
+    },
+    {
+      "id": "11",
+      "reservations": []
+    },
+    {
+      "id": "12",
+      "reservations": []
+    },
+    {
+      "id": "13",
+      "reservations": []
+    },
+    {
+      "id": "14",
+      "reservations": [
+        {
+          "reservedBy": "Test",
+          "from": "2024-08-05",
+          "to": "2024-08-22",
+          "notes": "cfb",
+          "roomId": 14,
+          "id": 1
+        }
+      ]
+    }
+  ],
+  "reservations": []
+}
